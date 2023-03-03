@@ -1,2 +1,2 @@
 # Meus Projetos
- Regressao Automatizada de site ecommerce!
+ Regressao Automatizada de site e-commerce!
